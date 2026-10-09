@@ -1,0 +1,186 @@
+[
+  {
+    "n": 1,
+    "id": "2404.14294",
+    "url": "https://arxiv.org/html/2404.14294v2",
+    "title": "A Survey on Efficient Inference for Large Language Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2410.20011",
+    "url": "https://huggingface.co/papers/2410.20011",
+    "title": "A Survey of Small Language Models",
+    "date": "2024-10-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2402.09748",
+    "url": "https://huggingface.co/papers/2402.09748",
+    "title": "Model Compression and Efficient Inference for Large Language Models: A Survey",
+    "date": "2024-02-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2401.15347",
+    "url": "https://huggingface.co/papers/2401.15347",
+    "title": "A Comprehensive Survey of Compression Algorithms for Language Models",
+    "date": "2024-01-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2311.09755",
+    "url": "https://huggingface.co/papers/2311.09755",
+    "title": "How Does Calibration Data Affect the Post-training Pruning and Quantization of Large Language Models?",
+    "date": "2023-11-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "layerskip",
+    "url": "https://ai.meta.com/research/publications/layerskip-enabling-early-exit-inference-and-self-speculative-decoding/",
+    "title": "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding",
+    "date": "2024-06-14",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "draft-verify",
+    "url": "https://aclanthology.org/2024.acl-long.607/",
+    "title": "Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "less-kv",
+    "url": "https://huggingface.co/papers/2402.09398",
+    "title": "Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference",
+    "date": "2024-02-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2406.02532",
+    "url": "https://huggingface.co/papers/2406.02532",
+    "title": "SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices",
+    "date": "2024-06-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2404.18911",
+    "url": "https://huggingface.co/papers/2404.18911",
+    "title": "Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting",
+    "date": "2024-04-29",
+    "source": "hf-daily"
+  },
+  {
+    "n": 11,
+    "id": "2407.09276",
+    "url": "https://huggingface.co/papers/2407.09276",
+    "title": "H2O-Danube3 Technical Report",
+    "date": "2024-07-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2311.11045",
+    "url": "https://huggingface.co/papers/2311.11045",
+    "title": "Orca 2: Teaching Small Language Models How to Reason",
+    "date": "2023-11-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2404.18796",
+    "url": "https://huggingface.co/papers/2404.18796",
+    "title": "Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models",
+    "date": "2024-04-29",
+    "source": "hf-daily"
+  },
+  {
+    "n": 14,
+    "id": "2409.15790",
+    "url": "https://arxiv.org/abs/2409.15790",
+    "title": "Small Language Models:Survey, Measurements, and Insights",
+    "date": "2025-02-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "taming-titans",
+    "url": "https://aclanthology.org/2025.inlg-main.32.pdf",
+    "title": "Taming the Titans: A Survey of Efficient LLM Inference Serving",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "edge-inference-survey",
+    "url": "https://www.mdpi.com/2079-9292/14/7/1345",
+    "title": "Optimization Methods, Challenges, and Opportunities for Edge Inference: A Comprehensive Survey",
+    "date": "2025-03-02",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "edge-cloud-collab",
+    "url": "https://tianweiz07.github.io/Papers/25-csur-2.pdf",
+    "title": "Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "1910.01108",
+    "url": "https://arxiv.org/abs/1910.01108",
+    "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+    "date": "2019-10-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2020.acl-main.195",
+    "url": "https://aclanthology.org/2020.acl-main.195.pdf",
+    "title": "MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "2020.findings-emnlp.372",
+    "url": "https://aclanthology.org/2020.findings-emnlp.372.pdf",
+    "title": "TinyBERT: Distilling BERT for Natural Language Understanding",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "hyperrouter",
+    "url": "https://aclanthology.org/2023.emnlp-main.351.pdf",
+    "title": "HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts via HyperNetwork",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "task-moe",
+    "url": "https://aclanthology.org/2021.findings-emnlp.304.pdf",
+    "title": "Beyond Distillation: Task-level Mixture-of-Experts for Efficient Inference",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "2404.19737",
+    "url": "https://huggingface.co/papers/2404.19737",
+    "title": "Better & Faster Large Language Models via Multi-token Prediction",
+    "date": "2024-04-30",
+    "source": "hf-search"
+  }
+]

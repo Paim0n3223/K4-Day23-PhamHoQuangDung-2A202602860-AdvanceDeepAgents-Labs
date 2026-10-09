@@ -1,0 +1,242 @@
+[
+  {
+    "n": 1,
+    "id": "2509.08827",
+    "url": "https://arxiv.org/abs/2509.08827",
+    "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-20",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "openai-learning-to-reason-with-llms",
+    "url": "https://openai.com/index/learning-to-reason-with-llms/",
+    "title": "Learning to reason with LLMs - OpenAI",
+    "date": "2024-09-12",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2307.04964",
+    "url": "https://huggingface.co/papers/2307.04964",
+    "title": "Secrets of RLHF in Large Language Models Part I: PPO",
+    "date": "2023-07-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2305.18290",
+    "url": "https://arxiv.org/abs/2305.18290",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "date": "2024-07-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2025.emnlp-main.1532",
+    "url": "https://aclanthology.org/2025.emnlp-main.1532/",
+    "title": "Expectation Preference Optimization: Reliable Preference Estimation for Improving the Reasoning ...",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "acl-long-163",
+    "url": "https://aclanthology.org/2026.acl-long.163/",
+    "title": "A Comprehensive Survey of Process Reward Models: Data Generation, Model Construction, and Usage",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "acl-long-163-pdf",
+    "url": "https://aclanthology.org/2026.acl-long.163.pdf",
+    "title": "A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2506.14245",
+    "url": "https://arxiv.org/abs/2506.14245",
+    "title": "Reinforcement Learning with Verifiable Rewards",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2505.24760",
+    "url": "https://arxiv.org/abs/2505.24760",
+    "title": "REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "lean-process-verified-rl",
+    "url": "https://neurips.cc/virtual/2025/131058",
+    "title": "Process-Verified Reinforcement Learning for Theorem Proving via Lean",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "judge-rlvr",
+    "url": "https://arxiv.org/abs/2601.08468",
+    "title": "JudgeRLVR: Judge First, Generate Second for Efficient ...",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2509.02547",
+    "url": "https://arxiv.org/abs/2509.02547",
+    "title": "The Landscape of Agentic Reinforcement Learning for LLMs",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2406.05804",
+    "url": "https://arxiv.org/abs/2406.05804",
+    "title": "A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2504.13958",
+    "url": "https://arxiv.org/abs/2504.13958",
+    "title": "ToolRL: Reward is All Tool Learning Needs",
+    "date": "2025-04-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2503.09516",
+    "url": "https://arxiv.org/abs/2503.09516",
+    "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+    "date": "2025-08-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2609.29892",
+    "url": "https://huggingface.co/papers/2609.29892",
+    "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+    "date": "2026-09-24",
+    "source": "hf-daily"
+  },
+  {
+    "n": 18,
+    "id": "2509.14480",
+    "url": "https://huggingface.co/papers/2509.14480",
+    "title": "Process-Supervised Reinforcement Learning for Interactive Multimodal Tool-Use Agents",
+    "date": "2025-09-17",
+    "source": "hf-daily"
+  },
+  {
+    "n": 19,
+    "id": "2508.08882",
+    "url": "https://huggingface.co/papers/2508.08882",
+    "title": "MSARL: Decoupling Reasoning and Tool Use with Multi-Small-Agent Reinforcement Learning",
+    "date": "2025-08-12",
+    "source": "hf-daily"
+  },
+  {
+    "n": 20,
+    "id": "2403.12884",
+    "url": "https://huggingface.co/papers/2403.12884",
+    "title": "HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning",
+    "date": "2024-03-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2510.13786",
+    "url": "https://arxiv.org/abs/2510.13786",
+    "title": "The Art of Scaling Reinforcement Learning Compute for LLMs",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "2504.07086",
+    "url": "https://arxiv.org/abs/2504.07086",
+    "title": "A Sober Look at Progress in Language Model Reasoning",
+    "date": "2025-04-09",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "2503.22732",
+    "url": "https://arxiv.org/abs/2503.22732",
+    "title": "Reasoning Beyond Limits: Advances and Open Problems for LLMs",
+    "date": "2025-03-26",
+    "source": "web"
+  },
+  {
+    "n": 24,
+    "id": "2509.16679",
+    "url": "https://arxiv.org/abs/2509.16679",
+    "title": "Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+    "date": "2025-09-20",
+    "source": "web"
+  },
+  {
+    "n": 25,
+    "id": "livebench",
+    "url": "https://livebench.github.io/",
+    "title": "LiveBench",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 26,
+    "id": "safety-in-large-reasoning-models",
+    "url": "https://aclanthology.org/2025.findings-emnlp.185/",
+    "title": "Safety in Large Reasoning Models: A Survey",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 27,
+    "id": "2504.00509",
+    "url": "https://huggingface.co/papers/2504.00509",
+    "title": "Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?",
+    "date": "2025-04-01",
+    "source": "hf-daily"
+  },
+  {
+    "n": 28,
+    "id": "2406.13975",
+    "url": "https://huggingface.co/papers/2406.13975",
+    "title": "MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models",
+    "date": "2024-06-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 29,
+    "id": "benchmarking-llms-advanced-mathematical-reasoning",
+    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2025/EECS-2025-121.pdf",
+    "title": "Benchmarking LLMs on Advanced Mathematical Reasoning",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 30,
+    "id": "rlvr-reasoning",
+    "url": "https://prakashkagitha.github.io/llm-stack-book/05-posttraining-alignment/09-rlvr-reasoning.html",
+    "title": "Reinforcement Learning with Verifiable Rewards (RLVR) & The Reasoning Recipe — The LLM Stack",
+    "date": "n.d.",
+    "source": "web"
+  }
+]

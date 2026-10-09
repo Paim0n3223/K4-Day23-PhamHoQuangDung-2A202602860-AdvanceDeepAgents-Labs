@@ -1,0 +1,258 @@
+[
+  {
+    "n": 1,
+    "id": "1803.10122",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "title": "World Models",
+    "date": "2018-05-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "worldmodels-2018",
+    "url": "https://worldmodels.github.io/",
+    "title": "World Models",
+    "date": "2018-03-27",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "world-model-survey-2024",
+    "url": "https://arxiv.org/html/2411.14499v2",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "bv6ds61hnnm",
+    "url": "https://exa.ai/library/publication/bv6ds61hnnm",
+    "title": "Survey of predictive state representations",
+    "date": "2010-01-01",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "1912.01603",
+    "url": "https://arxiv.org/pdf/1912.01603",
+    "title": "Learning Behaviors by Latent Imagination",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2301.04104",
+    "url": "https://arxiv.org/pdf/2301.04104",
+    "title": "Dreamer",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2506.01392",
+    "url": "https://huggingface.co/papers/2506.01392",
+    "title": "Sparse Imagination for Efficient Visual World Model Planning",
+    "date": "2025-06-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2610.10515",
+    "url": "https://huggingface.co/papers/2610.10515",
+    "title": "RoboJEPA: Scaling Robotic Latent World Models",
+    "date": "2026-10-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2605.23089",
+    "url": "https://huggingface.co/papers/2605.23089",
+    "title": "Dreaming Smoothly and Sample Efficiently with Gradient Penalized Latent Dynamics",
+    "date": "2026-05-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2406.09455",
+    "url": "https://arxiv.org/html/2406.09455",
+    "title": "Towards General World Model with Natural Language Actions and Video States",
+    "date": "2024-06-12",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "42465",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/42465/46426",
+    "title": "Pre-Trained Video Generative Models as World Simulators",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "10.1145/3746449",
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2606.20781",
+    "url": "https://arxiv.org/html/2606.20781",
+    "title": "World Action Models: A Survey",
+    "date": "2026-06-18",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "unipi",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/1d5b9233ad716a43be5c0d3023cb82d0-Paper-Conference.pdf",
+    "title": "Learning Universal Policies via Text-Guided Video Generation",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2410.12822",
+    "url": "https://arxiv.org/abs/2410.12822",
+    "title": "Adapting Video Diffusion Models to World Models - AVID - arXiv",
+    "date": "2024-11-24",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2605.00080",
+    "url": "https://arxiv.org/html/2605.00080",
+    "title": "World Model for Robot Learning: A Comprehensive Survey",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "0940dda4-af15-11f0-9d60-0242ac120002",
+    "url": "https://fi.ee.tsinghua.edu.cn/public/publications/0940dda4-af15-11f0-9d60-0242ac120002.pdf",
+    "title": "A Survey of Embodied World Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "2503.02247v5",
+    "url": "https://arxiv.org/abs/2503.02247",
+    "title": "WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2412.03572v2",
+    "url": "https://arxiv.org/pdf/2412.03572v2.pdf",
+    "title": "Navigation World Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "2606.23565",
+    "url": "https://huggingface.co/papers/2606.23565",
+    "title": "HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory",
+    "date": "2026-06-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2412.10402",
+    "url": "https://huggingface.co/papers/2412.10402",
+    "title": "TANGO: Training-free Embodied AI Agents for Open-world Tasks",
+    "date": "2024-12-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 22,
+    "id": "2510.16732v3",
+    "url": "https://arxiv.org/html/2510.16732v3",
+    "title": "A Comprehensive Survey on World Models for Embodied AI",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "2606.15032",
+    "url": "https://arxiv.org/html/2606.15032v1",
+    "title": "How Should World Models Be Evaluated? A Decision-Making-Centric Position",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 24,
+    "id": "2502.20694",
+    "url": "https://huggingface.co/papers/2502.20694",
+    "title": "WorldModelBench: Judging Video Generation Models As World Models",
+    "date": "2025-02-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 25,
+    "id": "2502.13092",
+    "url": "https://huggingface.co/papers/2502.13092",
+    "title": "Text2World: Benchmarking Large Language Models for Symbolic World Model Generation",
+    "date": "2025-02-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 26,
+    "id": "world-bench",
+    "url": "https://world-bench.github.io/",
+    "title": "WorldBench: Benchmarking Physical Understanding of World Models by Isolating Physics Concepts",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 27,
+    "id": "state-of-world-models-2026-v1.0",
+    "url": "https://world-models.io/reports/state-of-world-models-2026/state-of-world-models-2026-v1.0.pdf",
+    "title": "State of World Models 2026: Taxonomy, Benchmarks and Open Challenges",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 28,
+    "id": "2609.22055",
+    "url": "https://arxiv.org/html/2609.22055v1",
+    "title": "Benchmarking World Models for Continual Learning on Compositional Tasks",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 29,
+    "id": "2411.06559",
+    "url": "https://huggingface.co/papers/2411.06559",
+    "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
+    "date": "2024-11-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 30,
+    "id": "lecun-world-models-2022",
+    "url": "https://irving-piano.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/",
+    "title": "LeCun's big bet for building intelligent machines",
+    "date": "2022-06-24",
+    "source": "web"
+  },
+  {
+    "n": 31,
+    "id": "unipi-blog",
+    "url": "https://research.google/blog/unipi-learning-universal-policies-via-text-guided-video-generation/",
+    "title": "UniPi: Learning universal policies via text-guided video generation",
+    "date": "2023-04-12",
+    "source": "web"
+  },
+  {
+    "n": 32,
+    "id": "worldmodelbench-team",
+    "url": "https://worldmodelbench-team.github.io/",
+    "title": "WorldModelBench: Judging Video Generation Models As World Models",
+    "date": "n.d.",
+    "source": "web"
+  }
+]
